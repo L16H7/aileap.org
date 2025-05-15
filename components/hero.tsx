@@ -12,21 +12,11 @@ export default function Hero() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="max-w-3xl mx-auto text-center">
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight text-gray-900 mb-6">
-            Advancing the Future of <span className="text-purple-600">Artificial Intelligence</span>
+            What is <span className="text-purple-600">intelligence?</span>
           </h1>
           <p className="text-xl text-gray-600 mb-8">
-            NexusAI Lab is pioneering research at the intersection of machine learning, cognitive science, and ethical
-            AI to build more intelligent and responsible systems.
+            AI Leap is asking the fundament question about the nature of intelligence. We are devoted to understanding and creating intelligence.
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button size="lg" className="text-md">
-              Our Research
-              <ArrowRight className="ml-2 h-4 w-4" />
-            </Button>
-            <Button size="lg" variant="outline" className="text-md">
-              Meet the Team
-            </Button>
-          </div>
         </div>
       </div>
     </section>
