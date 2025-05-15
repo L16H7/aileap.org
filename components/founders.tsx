@@ -8,9 +8,6 @@ export default function Founders() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-3xl mx-auto text-center mb-16">
           <h2 className="text-3xl font-bold text-gray-900 mb-4">Meet Our Founders</h2>
-          <p className="text-xl text-gray-600">
-            Visionary leaders with decades of combined experience in AI research and development.
-          </p>
         </div>
 
         <div className="grid md:grid-cols-2 gap-12 max-w-5xl mx-auto">
@@ -19,8 +16,8 @@ export default function Founders() {
               <Image src="/professional-ai-researcher.png" alt="Dr. Sarah Chen" fill className="object-cover" />
             </div>
             <CardContent className="p-6">
-              <h3 className="text-2xl font-bold text-gray-900 mb-1">Dr. Sarah Chen</h3>
-              <p className="text-purple-600 font-medium mb-3">Co-Founder & Chief Scientist</p>
+              <h3 className="text-2xl font-bold text-gray-900 mb-1">Dr. Bryce Sandlund</h3>
+              <p className="text-purple-600 font-medium mb-3">Co-Founder & Computer Scientist</p>
               <p className="text-gray-600 mb-4">
                 Former research lead at DeepMind with a Ph.D. in Computer Science from Stanford. Specializes in
                 reinforcement learning and neural networks.
