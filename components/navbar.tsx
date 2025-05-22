@@ -19,9 +19,6 @@ export default function Navbar() {
           </div>
 
           <div className="hidden md:flex items-center space-x-8">
-            <Link href="#about" className="text-gray-700 hover:text-gray-900 transition-colors">
-              About
-            </Link>
             <Link href="#founders" className="text-gray-700 hover:text-gray-900 transition-colors">
               Founders
             </Link>

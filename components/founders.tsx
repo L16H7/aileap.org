@@ -23,11 +23,8 @@ export default function Founders() {
                 reinforcement learning and neural networks.
               </p>
               <div className="flex space-x-3">
-                <a href="#" className="text-gray-500 hover:text-purple-600 transition-colors">
+                <a href="https://www.linkedin.com/in/brycesandlund/" className="text-gray-500 hover:text-purple-600 transition-colors">
                   <Linkedin size={20} />
-                </a>
-                <a href="#" className="text-gray-500 hover:text-purple-600 transition-colors">
-                  <Twitter size={20} />
                 </a>
                 <a href="#" className="text-gray-500 hover:text-purple-600 transition-colors">
                   <FileText size={20} />
@@ -44,10 +41,10 @@ export default function Founders() {
               <h3 className="text-2xl font-bold text-gray-900 mb-1">Lin Myat Ko</h3>
               <p className="text-purple-600 font-medium mb-3">Co-Founder & Research Engineer</p>
               <p className="text-gray-600 mb-4">
-                Research Engineer, deeply passionate in solving challenging problems. Believe RL is the way to AGI
+                Research Engineer, deeply passionate in solving challenging problems.<br /> Believe Reinforcement Learning is the way to AGI!
               </p>
               <div className="flex space-x-3">
-                <a href="#" className="text-gray-500 hover:text-purple-600 transition-colors">
+                <a href="https://www.linkedin.com/in/coderlight/" className="text-gray-500 hover:text-purple-600 transition-colors">
                   <Linkedin size={20} />
                 </a>
                 <a href="#" className="text-gray-500 hover:text-purple-600 transition-colors">
