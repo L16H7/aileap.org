@@ -1,6 +1,6 @@
 import Image from "next/image"
 import { Card, CardContent } from "@/components/ui/card"
-import { Linkedin, Twitter, FileText } from "lucide-react"
+import { Linkedin, Twitter, FileText, Github } from "lucide-react"
 
 export default function Founders() {
   return (
@@ -50,8 +50,8 @@ export default function Founders() {
                 <a href="#" className="text-gray-500 hover:text-purple-600 transition-colors">
                   <Twitter size={20} />
                 </a>
-                <a href="#" className="text-gray-500 hover:text-purple-600 transition-colors">
-                  <FileText size={20} />
+                <a href="https://github.com/L16H7" target="_blank" className="text-gray-500 hover:text-purple-600 transition-colors">
+                  <Github size={20} />
                 </a>
               </div>
             </CardContent>
