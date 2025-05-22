@@ -29,7 +29,7 @@ export default function About() {
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-2">Large Language Models</h3>
               <p className="text-gray-600">
-                We finetune and train LLMs to be able to perform novel and complex tasks.
+                We finetune and train LLMs to be able to perform novel and reasoning tasks.
               </p>
             </CardContent>
           </Card>
@@ -39,7 +39,7 @@ export default function About() {
               <div className="rounded-full bg-green-100 p-3 w-12 h-12 flex items-center justify-center mb-4">
                 <Lightbulb className="h-6 w-6 text-green-600" />
               </div>
-              <h3 className="text-xl font-bold text-gray-900 mb-2">ARC AGI Challenge</h3>
+              <h3 className="text-xl font-bold text-gray-900 mb-2">ARC-AGI Challenge</h3>
               <p className="text-gray-600">
                  We are currently tackling the Abstraction and Reasoning Corpus (ARC) AGI challenge, combining the strengths
             of Large Language Models and Reinforcement Learning
