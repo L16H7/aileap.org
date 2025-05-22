@@ -46,13 +46,6 @@ export default function Navbar() {
         <div className="md:hidden bg-white border-b">
           <div className="container mx-auto px-4 py-4 space-y-3">
             <Link
-              href="#about"
-              className="block text-gray-700 hover:text-gray-900 transition-colors"
-              onClick={() => setIsMenuOpen(false)}
-            >
-              About
-            </Link>
-            <Link
               href="#founders"
               className="block text-gray-700 hover:text-gray-900 transition-colors"
               onClick={() => setIsMenuOpen(false)}
@@ -60,7 +53,7 @@ export default function Navbar() {
               Founders
             </Link>
             <Link
-              href="#research"
+              href="#about"
               className="block text-gray-700 hover:text-gray-900 transition-colors"
               onClick={() => setIsMenuOpen(false)}
             >

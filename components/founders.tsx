@@ -13,7 +13,7 @@ export default function Founders() {
         <div className="grid md:grid-cols-2 gap-12 max-w-5xl mx-auto">
           <Card className="border-0 shadow-lg overflow-hidden">
             <div className="aspect-[3/4] relative">
-              <Image src="https://brycesandlund.com/images/bryce-cropped-small.jpg" alt="Dr. Sarah Chen" fill className="object-cover" />
+              <Image src="https://brycesandlund.com/images/bryce-cropped-small.jpg" alt="Bryce" fill className="object-cover" />
             </div>
             <CardContent className="p-6">
               <h3 className="text-2xl font-bold text-gray-900 mb-1">Dr. Bryce Sandlund</h3>
@@ -40,7 +40,7 @@ export default function Founders() {
               <h3 className="text-2xl font-bold text-gray-900 mb-1">Lin Myat Ko</h3>
               <p className="text-purple-600 font-medium mb-3">Co-Founder & Research Engineer</p>
               <p className="text-gray-600 mb-4 h-32">
-                He is an experienced research engineer, deeply passionate in solving intelligence. He believes Reinforcement Learning is the best way to AGI!
+                Lin is an experienced research engineer, deeply passionate in solving intelligence. He believes Reinforcement Learning is the best way to AGI!
               </p>
               <div className="flex space-x-3">
                 <a href="https://www.linkedin.com/in/coderlight/" target="_blank" className="text-gray-500 hover:text-purple-600 transition-colors">

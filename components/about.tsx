@@ -5,10 +5,10 @@ export default function About() {
   return (
     <section id="about" className="py-20 bg-white">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+
         <div className="max-w-3xl mx-auto text-center mb-16">
           <h2 className="text-3xl font-bold text-gray-900 mb-4">Our Research Area</h2>
         </div>
-
         <div className="grid md:grid-cols-3 gap-8">
           <Card className="border-0 shadow-lg">
             <CardContent className="pt-6">
