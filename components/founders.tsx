@@ -13,11 +13,11 @@ export default function Founders() {
         <div className="grid md:grid-cols-2 gap-12 max-w-5xl mx-auto">
           <Card className="border-0 shadow-lg overflow-hidden">
             <div className="aspect-[3/4] relative">
-              <Image src="/professional-ai-researcher.png" alt="Dr. Sarah Chen" fill className="object-cover" />
+              <Image src="https://brycesandlund.com/images/bryce-cropped-small.jpg" alt="Dr. Sarah Chen" fill className="object-cover" />
             </div>
             <CardContent className="p-6">
               <h3 className="text-2xl font-bold text-gray-900 mb-1">Dr. Bryce Sandlund</h3>
-              <p className="text-purple-600 font-medium mb-3">Co-Founder & Computer Scientist</p>
+              <p className="text-purple-600 font-medium mb-3">Co-Founder & Research Scientist</p>
               <p className="text-gray-600 mb-4">
                 Former research lead at DeepMind with a Ph.D. in Computer Science from Stanford. Specializes in
                 reinforcement learning and neural networks.
@@ -41,11 +41,10 @@ export default function Founders() {
               <Image src="/placeholder-lqm5l.png" alt="Dr. Marcus Johnson" fill className="object-cover" />
             </div>
             <CardContent className="p-6">
-              <h3 className="text-2xl font-bold text-gray-900 mb-1">Dr. Marcus Johnson</h3>
-              <p className="text-purple-600 font-medium mb-3">Co-Founder & CEO</p>
+              <h3 className="text-2xl font-bold text-gray-900 mb-1">Lin Myat Ko</h3>
+              <p className="text-purple-600 font-medium mb-3">Co-Founder & Research Engineer</p>
               <p className="text-gray-600 mb-4">
-                Previously led AI ethics at Google with a Ph.D. in Cognitive Science from MIT. Expert in human-AI
-                interaction and ethical computing.
+                Research Engineer, deeply passionate in solving challenging problems. Believe RL is the way to AGI
               </p>
               <div className="flex space-x-3">
                 <a href="#" className="text-gray-500 hover:text-purple-600 transition-colors">

@@ -6,7 +6,7 @@ export default function Hero() {
     <section className="relative py-20 md:py-32 overflow-hidden">
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 bg-gradient-to-r from-purple-50 to-blue-50" />
-        <div className="absolute inset-0 bg-[url('/placeholder-96n2b.png')] opacity-10 bg-cover bg-center" />
+        
       </div>
 
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
