@@ -18,7 +18,7 @@ export default function Founders() {
             <CardContent className="p-6">
               <h3 className="text-2xl font-bold text-gray-900 mb-1">Dr. Bryce Sandlund</h3>
               <p className="text-purple-600 font-medium mb-3">Co-Founder & Research Scientist</p>
-              <p className="text-gray-600 mb-2">
+              <p className="text-gray-600 mb-2 h-32">
                 Bryce holds a PhD in Theoretical Computer Science from Waterloo. He pairs core algorithmic insights with practical engineering specifics, previously leading Optimization at Gopuff.
               </p>
               <div className="flex space-x-3">
@@ -39,7 +39,7 @@ export default function Founders() {
             <CardContent className="p-6">
               <h3 className="text-2xl font-bold text-gray-900 mb-1">Lin Myat Ko</h3>
               <p className="text-purple-600 font-medium mb-3">Co-Founder & Research Engineer</p>
-              <p className="text-gray-600 mb-4">
+              <p className="text-gray-600 mb-4 h-32">
                 He is an experienced research engineer, deeply passionate in solving intelligence. He believes Reinforcement Learning is the best way to AGI!
               </p>
               <div className="flex space-x-3">
