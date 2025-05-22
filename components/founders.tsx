@@ -19,7 +19,7 @@ export default function Founders() {
               <h3 className="text-2xl font-bold text-gray-900 mb-1">Dr. Bryce Sandlund</h3>
               <p className="text-purple-600 font-medium mb-3">Co-Founder & Research Scientist</p>
               <p className="text-gray-600 mb-2 h-32">
-                Bryce holds a PhD in Theoretical Computer Science from Waterloo. He pairs core algorithmic insights with practical engineering specifics, previously leading Optimization at Gopuff.
+                Bryce holds a PhD in Theoretical Computer Science from Waterloo. He pairs core algorithmic insights with practical engineering, previously leading Optimization at Gopuff.
               </p>
               <div className="flex space-x-3">
                 <a href="https://www.linkedin.com/in/brycesandlund/" target="_blank" className="text-gray-500 hover:text-purple-600 transition-colors">
@@ -40,7 +40,7 @@ export default function Founders() {
               <h3 className="text-2xl font-bold text-gray-900 mb-1">Lin Myat Ko</h3>
               <p className="text-purple-600 font-medium mb-3">Co-Founder & Research Engineer</p>
               <p className="text-gray-600 mb-4 h-32">
-                Lin is an experienced research engineer, deeply passionate in solving intelligence. He believes Reinforcement Learning is the best way to AGI!
+                Lin is an experienced Research Engineer, deeply passionate in solving intelligence. He believes Reinforcement Learning is the best path to AGI!
               </p>
               <div className="flex space-x-3">
                 <a href="https://www.linkedin.com/in/coderlight/" target="_blank" className="text-gray-500 hover:text-purple-600 transition-colors">

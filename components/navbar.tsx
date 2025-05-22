@@ -22,7 +22,7 @@ export default function Navbar() {
             <Link href="#founders" className="text-gray-700 hover:text-gray-900 transition-colors">
               Founders
             </Link>
-            <Link href="#research" className="text-gray-700 hover:text-gray-900 transition-colors">
+            <Link href="#about" className="text-gray-700 hover:text-gray-900 transition-colors">
               Research
             </Link>
             <Link href="#contact" className="text-gray-700 hover:text-gray-900 transition-colors">
