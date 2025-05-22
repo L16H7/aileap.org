@@ -23,11 +23,11 @@ export default function Founders() {
                 reinforcement learning and neural networks.
               </p>
               <div className="flex space-x-3">
-                <a href="https://www.linkedin.com/in/brycesandlund/" className="text-gray-500 hover:text-purple-600 transition-colors">
+                <a href="https://www.linkedin.com/in/brycesandlund/" target="_blank" className="text-gray-500 hover:text-purple-600 transition-colors">
                   <Linkedin size={20} />
                 </a>
-                <a href="#" className="text-gray-500 hover:text-purple-600 transition-colors">
-                  <FileText size={20} />
+                <a href="https://github.com/brycesandlund" target="_blank" className="text-gray-500 hover:text-purple-600 transition-colors">
+                  <Github size={20} />
                 </a>
               </div>
             </CardContent>
@@ -44,7 +44,7 @@ export default function Founders() {
                 Research Engineer, deeply passionate in solving challenging problems.<br /> Believe Reinforcement Learning is the way to AGI!
               </p>
               <div className="flex space-x-3">
-                <a href="https://www.linkedin.com/in/coderlight/" className="text-gray-500 hover:text-purple-600 transition-colors">
+                <a href="https://www.linkedin.com/in/coderlight/" target="_blank" className="text-gray-500 hover:text-purple-600 transition-colors">
                   <Linkedin size={20} />
                 </a>
                 <a href="#" className="text-gray-500 hover:text-purple-600 transition-colors">
