@@ -18,9 +18,8 @@ export default function Founders() {
             <CardContent className="p-6">
               <h3 className="text-2xl font-bold text-gray-900 mb-1">Dr. Bryce Sandlund</h3>
               <p className="text-purple-600 font-medium mb-3">Co-Founder & Research Scientist</p>
-              <p className="text-gray-600 mb-4">
-                Former research lead at DeepMind with a Ph.D. in Computer Science from Stanford. Specializes in
-                reinforcement learning and neural networks.
+              <p className="text-gray-600 mb-2">
+                Bryce holds a PhD in Theoretical Computer Science from Waterloo. He pairs core algorithmic insights with practical engineering specifics, previously leading Optimization at Gopuff.
               </p>
               <div className="flex space-x-3">
                 <a href="https://www.linkedin.com/in/brycesandlund/" target="_blank" className="text-gray-500 hover:text-purple-600 transition-colors">
@@ -35,20 +34,17 @@ export default function Founders() {
 
           <Card className="border-0 shadow-lg overflow-hidden">
             <div className="aspect-[3/4] relative">
-              <Image src="/placeholder-lqm5l.png" alt="Dr. Marcus Johnson" fill className="object-cover" />
+              <Image src="https://i.imgur.com/4vd9aLe.jpeg" alt="Light" fill className="object-cover" />
             </div>
             <CardContent className="p-6">
               <h3 className="text-2xl font-bold text-gray-900 mb-1">Lin Myat Ko</h3>
               <p className="text-purple-600 font-medium mb-3">Co-Founder & Research Engineer</p>
               <p className="text-gray-600 mb-4">
-                Research Engineer, deeply passionate in solving challenging problems.<br /> Believe Reinforcement Learning is the way to AGI!
+                He is an experienced research engineer, deeply passionate in solving intelligence. He believes Reinforcement Learning is the best way to AGI!
               </p>
               <div className="flex space-x-3">
                 <a href="https://www.linkedin.com/in/coderlight/" target="_blank" className="text-gray-500 hover:text-purple-600 transition-colors">
                   <Linkedin size={20} />
-                </a>
-                <a href="#" className="text-gray-500 hover:text-purple-600 transition-colors">
-                  <Twitter size={20} />
                 </a>
                 <a href="https://github.com/L16H7" target="_blank" className="text-gray-500 hover:text-purple-600 transition-colors">
                   <Github size={20} />
