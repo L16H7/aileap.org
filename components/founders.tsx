@@ -1,6 +1,6 @@
 import Image from "next/image"
 import { Card, CardContent } from "@/components/ui/card"
-import { Linkedin, Twitter, FileText, Github } from "lucide-react"
+import { Linkedin, Twitter, FileText, Github, Globe } from "lucide-react"
 
 export default function Founders() {
   return (
@@ -22,6 +22,9 @@ export default function Founders() {
                 Bryce holds a PhD in Theoretical Computer Science from Waterloo. He pairs core algorithmic insights with practical engineering, previously leading Optimization at Gopuff.
               </p>
               <div className="flex space-x-3">
+                <a href="https://brycesandlund.com/" target="_blank" className="text-gray-500 hover:text-purple-600 transition-colors">
+                  <Globe size={20} />
+                </a>
                 <a href="https://www.linkedin.com/in/brycesandlund/" target="_blank" className="text-gray-500 hover:text-purple-600 transition-colors">
                   <Linkedin size={20} />
                 </a>
