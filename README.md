@@ -28,3 +28,30 @@ Continue building your app on:
 2. Deploy your chats from the v0 interface
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
+
+## Local Development Setup
+
+To set up a local development environment for this project, follow these steps:
+
+### Prerequisites
+
+- **Node.js** (v18 or higher recommended)
+- **pnpm** package manager
+
+### Installation & Setup
+
+1. **Install pnpm** (if not already installed):
+   ```bash
+   npm install -g pnpm
+   ```
+2. **Install dependencies:**
+   ```bash
+   pnpm install
+   ```
+3. **Start the development server:**
+   ```bash
+   pnpm dev
+   ```
+
+The app will be available at [http://localhost:3000](http://localhost:3000) by default.
+

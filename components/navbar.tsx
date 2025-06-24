@@ -14,6 +14,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <Link href="/" className="flex items-center">
+              <img src="/icon.png" alt="AI Leap logo" className="w-7 h-7 mr-2" />
               <span className="text-xl font-bold text-gray-900">AI Leap</span>
             </Link>
           </div>

@@ -6,7 +6,6 @@ export default function Hero() {
     <section className="relative py-20 md:py-32 overflow-hidden">
       <div className="absolute inset-0 z-0">
         <div className="absolute inset-0 bg-gradient-to-r from-purple-50 to-blue-50" />
-        
       </div>
 
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
@@ -15,7 +14,7 @@ export default function Hero() {
             What is <span className="text-purple-600">intelligence?</span>
           </h1>
           <p className="text-xl text-gray-600 mb-8">
-            AI Leap is asking the fundament question about the nature of intelligence. We are devoted to understanding and creating intelligence.
+            AI Leap is asking the fundamental question about the nature of intelligence. We are devoted to understanding and creating intelligence.
           </p>
         </div>
       </div>
