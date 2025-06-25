@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'AI Leap',
-  description: 'AGI Research Lab'
+  description: 'AI Research Lab'
 }
 
 export default function RootLayout({
