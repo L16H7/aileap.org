@@ -55,6 +55,30 @@ export default function Founders() {
               </div>
             </CardContent>
           </Card>
+
+          <Card className="border-0 shadow-lg overflow-hidden">
+            <div className="aspect-[3/4] relative">
+              <Image src="/Raymond_Fan.JPG" alt="Raymond" fill className="object-cover" />
+            </div>
+            <CardContent className="p-6">
+              <h3 className="text-2xl font-bold text-gray-900 mb-1">Raymond Fan</h3>
+              <p className="text-purple-600 font-medium mb-3">Co-Founder & Research Scientist</p>
+              <p className="text-gray-600 mb-2 h-32">
+                Raymond is a Physics PhD from the University of Toronto. He seeks to understand the phase transition from memorization to generalization in machine learning.
+              </p>
+              <div className="flex space-x-3">
+                <a href="https://rfangit.github.io/" target="_blank" className="text-gray-500 hover:text-purple-600 transition-colors">
+                  <Globe size={20} />
+                </a>
+                <a href="https://www.linkedin.com/in/raymond-fan-4398671ba/" target="_blank" className="text-gray-500 hover:text-purple-600 transition-colors">
+                  <Linkedin size={20} />
+                </a>
+                <a href="https://github.com/rfangit" target="_blank" className="text-gray-500 hover:text-purple-600 transition-colors">
+                  <Github size={20} />
+                </a>
+              </div>
+            </CardContent>
+          </Card>
         </div>
       </div>
     </section>
