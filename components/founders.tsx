@@ -19,7 +19,9 @@ export default function Founders() {
               <h3 className="text-2xl font-bold text-gray-900 mb-1">Bryce Sandlund</h3>
               <p className="text-purple-600 font-medium mb-3">Co-Founder & Research Scientist</p>
               <p className="text-gray-600 mb-2 h-32">
-                Bryce holds a PhD in Theoretical Computer Science from Waterloo. He pairs core algorithmic insights with practical engineering, previously leading Optimization at Gopuff.
+                Bryce holds a PhD in Theoretical Computer Science from Waterloo. He is interested in developing superintelligence.
+                He believes new algorithms applying reinforcement learning in
+                language models is the way to achieve it.
               </p>
               <div className="flex space-x-3">
                 <a href="https://brycesandlund.com/" target="_blank" className="text-gray-500 hover:text-purple-600 transition-colors">
